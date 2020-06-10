@@ -17,7 +17,9 @@ See https://github.com/BCDevExchange/Our-Project-Docs/blob/master/discussion/pro
 If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badge' Addin. -->
 <a id="devex-badge" rel="Exploration" href="https://github.com/BCDevExchange/assets/blob/master/README.md"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/exploration.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
 
-# community-air-quality-reports
+# Community Air Quality Report Templates
+
+Community focussed air quality reports
 
 ### Usage
 
@@ -40,7 +42,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ### Project Status
 
-Just getting started...
+Just getting started.
 
 ### Getting Help or Reporting an Issue
 
