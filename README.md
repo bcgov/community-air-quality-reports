@@ -7,7 +7,7 @@ If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badg
 Community Air Quality Report Templates
 ======================================
 
-Community focussed air quality reports
+Render community focused air quality reports
 
 ### Usage
 
